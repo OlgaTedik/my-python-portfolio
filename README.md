@@ -33,8 +33,8 @@
 
 ├── applications(2.0).csv
 ├── industries(2.0).csv
-└── your_script.py # Скрипт Python для аналізу заявок
-└── README.md # Цей файл
+└── HWPython5 NEW.ipynb
+└── README.md 
 
 ## Запуск
 
