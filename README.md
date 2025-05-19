@@ -25,8 +25,6 @@
 
 * Python
 * Pandas
-* Git
-* GitHub
 
 ## Структура репозиторію
 
